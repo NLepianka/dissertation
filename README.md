@@ -1,4 +1,4 @@
 # dissertation
-Doctoral Dissertation: "Yet of Books There Are a Plenty": The Bibliography of Literary Data
+This repository contains the .tex files associated with the doctoral dissertation "Yet of Books There Are A Plenty", defended December 2018.
 
-A doctoral dissertation written in LaTeX.
+The chapter bodies, including the introduction, can be found in the Section 1-5 files. The other files include paratextual and bibliographic matter necessary for submission to the Texas A&M University Graduate School. 
